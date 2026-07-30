@@ -168,7 +168,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Sivakumar R**
+**Siva kumar R**
 
 GitHub: https://github.com/Siva-kumar-r16
 Portfolio: https://sivakumars-portfolio.netlify.app/
